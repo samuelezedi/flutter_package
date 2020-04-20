@@ -1,7 +1,8 @@
-name: flutterpackage
+name: flutterpackage_by_sam
 description: First flutter package
 version: 0.0.1
-author: Pawan Kumar <samuelezedi@gmail.com>
+authors:
+  - samuelezedi@gmail.com
 homepage: https://github.com/samuelezedi/flutter_package
 
 environment:

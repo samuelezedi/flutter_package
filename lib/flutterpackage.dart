@@ -1,8 +1,8 @@
-library flutterpackage;
+library flutterpackage_by_sam;
 
 import 'package:flutter/material.dart';
-import 'package:flutterpackage/my_navigator.dart';
-import 'package:flutterpackage/walkthrough.dart';
+import 'package:flutterpackage_by_sam/my_navigator.dart';
+import 'package:flutterpackage_by_sam/walkthrough.dart';
 
 class IntroScreen extends StatefulWidget {
   @override
